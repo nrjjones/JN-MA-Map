@@ -60,7 +60,7 @@ ggsave("./out/JN MA Map All.png")
 
 ggplot() + 
   geom_polygon(data=MA, aes(x = long, y = lat, group = group), color = "white") +
-  geom_point(data=df, aes(x=lon, y=lat,color=open2)) +
+  geom_point(data=df, aes(x=lon, y=lat,color=open2), show.legend = FALSE) +
   coord_fixed(1.3) +
   theme(
     axis.text = element_blank(),
