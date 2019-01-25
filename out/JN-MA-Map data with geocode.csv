@@ -1,0 +1,148 @@
+numb,name,address,open,lon,lat
+69,Amherst,"1200 North Pleasant Street, Amherst, MA 01002",1,-72.5315282,42.4102412
+76,Blechertown,"51 State Street, Belchertown , MA 01007",2,-72.4131002,42.2712297
+97,Chicopee,"Valley Opportunity Council, 35 Mt. Carmel Ave 2nd Floor, Chicopee, MA 01013",1,-72.6073905,42.1885859
+98,Holyoke,"300 High Street, Holyoke, MA 01040",1,-72.6083487,42.2059848
+100,Ludlow,"14 Chestnut Place, 1st Floor, Ludlow, MA 01056",1,-72.48113599999999,42.1575564
+71,Northampton,"15 Straw Avenue, Northampton, MA 01062",1,-72.66293,42.335042
+72,Ware,"Mary Lane Hospital, 89 South St, Ware, MA 01082",1,-72.2424686,42.2537083
+101,Westfield,"70 Court St Suite 10A, Lower Level, Westfield, MA 01085",1,-72.765453,42.1119847
+56,W. Springfield,"425 Union St, Level D, Springfield, MA 01089",1,-72.5760572,42.1057171
+57,Forest Park,"Health Center/CHC, 532-536 Sumner Ave, Springfield, MA 01108",1,-72.5571758,42.0866068
+54,Main Street,"1985 Main St, Springfield, MA 01103",1,-72.5973525,42.1072373
+60,Springfield South,"816 Main St, Springfield, MA 01103",1,-72.5825632,42.0971986
+55,Mason Square,"11 Wilbraham Rd, 2nd Floor, Springfield, MA 01109",1,-72.5632757,42.111011
+189,Boston Road,"1771 Boston Road, Springfield, MA 01119",1,-72.4841079,42.1449666
+129,Hillcrest Campus,"165 Tor Court, Pittsfield, MA 01201",1,-73.28123529999999,42.4581621
+128,North Street,"510 North Street, Pittsfield, MA 01201",1,-73.2510573,42.4555476
+102,Great Barrington,"442 Stockbridge Road, Great Barrington, MA 01230",1,-73.3426477,42.2191688
+198,Barrington OB/GYN,"780 Main Street, Great Barrington, MA 01230",1,-73.3630064,42.17827279999999
+103,Lee,"Congregational Church, Water Street, Lee, MA 01238",3,-73.248387,42.3050706
+131,North Adams,"71 Hospital Avenue 3rd Floor, North Adams, MA 01247",1,-73.10911469999999,42.70731259999999
+104,Otis,"1 North Main St, Otis, MA 01253",3,-73.1190472,42.2417006
+74,Greenfield,"393 Main Street, Greenfield, MA 01301",1,-72.5989767,42.5873857
+73,Orange,"167 South Main Street, Orange, MA 01364",1,-72.308797,42.5848527
+77,West County,"3 State St, Shelburne Falls, MA 01370",3,-72.7416954,42.6034977
+75,Montague,"Franklin Community Health Ctr, 338 Montague City Rd, Turners Falls, MA 01376",3,-72.57453699999999,42.5877188
+150,Fitchburg,"375 Nichols Road, Fitchburg, MA 01420",1,-71.8071721,42.5969488
+153,Mobile-Fitchburg on Wheels,"326 Nichols Road, Fitchburg, MA 01420",3,-71.8077019,42.5973818
+194,Ayer,"63 Park Street, Ayer, MA 01432",1,-71.5910054,42.5644986
+151,Gardner,"95 Mechanic Street, Gardner, MA 01440",1,-71.990921,42.566572
+152,Leominster,"53 Merriam Ave, Leominster, MA 01453",1,-71.7593057,42.5281485
+155,Winchendon CAC,"293 Central Street,  Winchendon, MA 01475",1,-72.043978,42.6862781
+149,Clinton,"Church of the Good Shepherd, 209 Union Street, Clinton, MA 01510",1,-71.6832107,42.4154253
+161,East Brookfield,"367 Main St, East Brookfield, MA 01515",1,-72.0407044,42.2277073
+145,Millbury*,"Milbury Federated Church, 20 N Main Street, Millbury, MA 01527",1,-71.76011059999999,42.1921184
+154,Barre,"Barre Family Health Center, 151 Worcester Road, Barre, MA 01005",1,-72.0907819,42.4082751
+164,Southbridge,"G.B. Wells- Southbridge, Southbridge, MA 01550",1,-72.04203749999999,42.0784963
+163,Mobile-South Central,"29 Pine St, Southbridge, MA 01550",3,-72.037524199999993,42.0802158
+165,Webster,"228 Main St, Webster, MA 01570",1,-71.88293639999999,42.0492384
+193,Whitinsville,"84 Church Street, Whitinsville, MA 01588",1,-71.661101,42.1114449
+191,Mill Swan Head Start,"337 Mill Street, Worcester, MA 01602",1,-71.84944200000001,42.258584
+144,Great Brook Valley,"19 Tacoma St., Worcester, MA 01605",1,-71.7660477,42.3022216
+146,Plumley Village,"16 Laurel St., Worcester, MA 01608",1,-71.795536,42.270086
+147,Worcester,"199 Chandler street, Worcester, MA 01609",1,-71.81687529999999,42.2608624
+78,Framingham,"7 Bishop Street 1st Floor, Framingham, MA 01702",1,-71.4088081,42.2791163
+79,Framingham WIC on Wheels,"300 Howard St, Framingham, MA 01702",3,-71.41085129999999,42.2787325
+62,Bedford/Hanscom,"188 Marrett Street, Building 1540, Hanscomb AFB, MA 01731",1,-71.2792884,42.4601655
+80,Marlboro,"230 Maple St, Marlboro, MA 01752",1,-71.5418181,42.3394603
+162,Milford,"114 Water St, Milford, MA 01757",1,-71.5347922,42.1365407
+68,Woburn,"600 West Cummings Park, Woburn, MA 01801",1,-71.1273053,42.495719
+141,Haverhill,"10 Phoenix Row 3rd Floor, Haverhill, MA 01830",1,-71.0827862,42.7731798
+113,Lawrence,"305 Essex Street, Lawrence, MA 01840",1,-71.1620258,42.7078492
+114,Methuen,"141 Tenney Street, Methuen, MA 01844",1,-71.1768089,42.72236669999999
+115,North Andover,"165 Haverhill Street, Andover, MA 01810",1,-71.1321329,42.6728032
+107,Lowell,"45-47 Kirk Street, Lowel, MA 01852",1,-71.3100078,42.64672669999999
+109,Lowell CHC Prenatal,"Lowell CHC Pediatrics, 161 Jackson Street 4th Floor, Lowell, MA 01852",1,-71.311467,42.642182
+188,Lowell Head Start,"126 Phoenix Avenue 1st Floor, Lowell, MA 01852",1,-71.2758206,42.6268549
+67,Reading,"30 New Crossing Road, Reading, MA 01867",1,-71.0951815,42.51778669999999
+67,Wilmington,"200 Middlesex Ave, Wimlington, MA 01887",3,-71.1637432,42.5590977
+116,Lynn,"20 Central Ave, Lynn, MA 01901",1,-70.9459957,42.4639858
+138,Amesbury,"Community Action Inc, 44 Friend Street, Amesbury, MA 01913",1,-70.93239740000001,42.8567106
+139,Beverly,"4 Ocean St, Beverly, MA 01815",1,-70.87512219999999,42.5485396
+140,Gloucester,"302 Washington Street, Gloucester, MA 01930",1,-70.6805572,42.6264489
+190,Ipswich,"15 Market Street, Ipswich, MA 01938",3,-70.8383009,42.679733
+142,Seacoast (Mobile),"447 Merrimack Street, Newburyport , MA 01950",2,-70.8948022,42.826431
+117,Peabody,"85 Main St, Peabody, MA 01960",1,-70.9239825,42.5240654
+119,Salem,"Shetland Park Unit 2220, 35 Congres St, Salem, MA 01970",1,-70.88843,42.518755
+39,Foxboro,"Foxboro Senior Center, 75 Central St, Foxboro, MA 02035",3,-71.2482187,42.0618718
+167,Mansfield,"6 Park Row, Mansfield, MA 02048",1,-71.2160718,42.0235065
+86,Marshfield,"12 Pearock Gardens, Marshfield, MA 02050",3,-70.70495199999999,42.110535
+43,Norwood,"275 Prospect Street, Room 214, Norwood, MA 02062",1,-71.209862,42.199059
+160,Stoughton,"810 Washington Street, Stoughton, MA 02072",1,-71.10133259999999,42.1237513
+32,South Street,"145 South St, Boston, MA 02111",1,-71.05762310000001,42.3509176
+31,Tufts Medical Center - WIC Program,"Tufts Floating Hospital, 800 Washington St, Boston, MA 02111",1,-71.06330799999999,42.349512
+35,Kenmore Sq HCHP,"2 Fenway Plaza, 4th Floor, Boston, MA 02115",3,-71.0907836,42.3463889
+16,South End,"1601 Washington St, 1st Floor, Boston, MA 02118",1,-71.07489389999999,42.3383481
+15,Boston Medical Center,"850 Harrison Ave, Lower Level, Boston, MA 02118",1,-71.07405709999999,42.334523
+25,Dimock,"55 Dimock St, Robury, MA 02119",1,-71.0976419,42.3197955
+29,Quincy Street,"278 Blue Hill Ave, Suite 282-284, Roxbury, MA 02119",2,-71.0784851,42.3147461
+29,Roxbury Comp.,"435 Warren St, Roxbury, MA 02119",3,-71.0832969,42.3167177
+29,Warren Street,"384 Warren St, 3rd Floor, Roxbury, MA 02119",1,-71.0818652,42.3179226
+30,Whittier St.,"1290 Tremont St, Roxbury, MA 02120",1,-71.09198549999999,42.3327661
+10,Harvard St,"632 Blue Hill Ave, 3rd Floor, Dorchester, MA 02121",1,-71.08510749999999,42.30249939999999
+1,Bowdoin St Health Ctr.,"230 Bowdoin Street, Dorchester, MA 02122",1,-71.06783709999999,42.3058687
+8,Fields Corner,"1353 Dorchester Ave, Dorchester, MA 02122",3,-71.05938739999999,42.3044999
+8,DotHouse Health WIC,"1353 Dorchester Ave, Dorchester, MA 02122",1,-71.05938739999999,42.3044999
+9,Neponset,"398 Neponset Ave, Dorchester, MA 02122",1,-71.0439731,42.2867792
+7,Codman Square,"637 Washington St, Dorchester, MA 02124",1,-71.07196909999999,42.289369
+5,Uphams Corner,"500 Columbia Road, Dorchester, MA 02125",1,-71.06765140000002,42.3147532
+12,Mattapan HC,"1575 Blue Hill Ave, Mattapan, MA 02126",1,-71.09406229999999,42.2697988
+13,Mattapan Square,"532 River St, Mattapan, MA 02126",3,-71.0946111,42.2671342
+50,South Boston,"386 W. Broadway, South Bosoton, MA 02127",3,-71.0484542,42.3376293
+196,Tierney WIC,"125 Mercer Street, South Boston , MA 02127",2,-71.0503803,42.3305961
+20,East Boston,"120 Liverpool Street, East Boston, MA 02128",1,-71.04040119999999,42.3728481
+17,Charlestown,"73 High Street, 3rd Floor, Charlestown, MA 02129",1,-71.0643087,42.3771479
+22,Brookside,"3297 Washington Street, Jamaica Plain, MA 02130",1,-71.103909,42.3108697
+23,Martha Elliot,"75 Bickford St First Floor, Jamaica Plain, MA 02130",1,-71.1022378,42.3245536
+24,Southern JP Hlth Ctr,"10A Green Street, Jamaica Plain, MA 02130",1,-71.1133571,42.3132183
+36,Roslindale,"4159 Washington St, Roslindale, MA 02131",1,-71.12633009999999,42.28842059999999
+33,Brighton,"640 Washington St, 1st Floor, Brighton, MA 02135",1,-71.1692202,42.3506926
+11,Hyde Park,"695 Truman Hwy, B 103, Hyde Park , MA 02136",1,-71.1188104,42.2525487
+187,Roving Berkshire South,"54 Castle St, Great Barrington, MA 02138",3,-73.3651551,42.1950197
+63,Central Square,"119 Windsor St, Cambridge, MA 02139",1,-71.09666709999999,42.3647457
+64,North Cambridge,"266-B Rindge Ave, Cambridge, MA 02140",1,-71.135024,42.3935007
+65,Somerville,"366 Broadway, Somerville, MA 02145",1,-71.0964376,42.3939172
+186,Head Start,"366 Broadway, Somerville, MA 02145",2,-71.0964376,42.3939172
+186,Cambridge/Somerville Mobile,"366 Broadway, Somerville, MA 02145",2,-71.0964376,42.3939172
+170,Malden,"239 Commercial Street, Malden, MA 02148",1,-71.07605459999999,42.4193964
+169,Everett City Hall,"484 Broadway, Room 1a, Everett, MA 02149",1,-71.0340523,42.3931961
+18,Chelsea Health Center,"151 Everett Ave 3rd Floor, Chelsea, MA 02150",1,-71.03914449999999,42.3961422
+19,MGH Revere Health Ctr,"300 Ocean Ave, Revere, MA 02151",1,-70.9922476,42.4079833
+171,Medford,"101 Main Street, Medford, MA 02155",1,-71.1111509,42.4160382
+44,Quincy,"121 Whitwell St, Quincy, MA 02169",1,-71.01424109999999,42.2500866
+42,North Quincy,"South Cove Community Health, 88 Holmes St, North Quincy, MA 02171",1,-71.0245296,42.2722517
+185,Hancock St/North Quincy,"435 Hancock St, North Quincy, MA 02171",3,-71.0244259,42.2723223
+66,Watertown,"Church of the Good Shepherd, 9 Russell Ave, Watertown, MA 02472",1,-71.175962,42.368766
+46,Weymouth,"Pilgrim Church, 24 Athens Street, Weymouth, MA 02191",1,-70.945545,42.2428171
+156,Brockton,"795 Pleasant Street, Brockton, MA 02301",1,-71.0517732,42.0883171
+157,East Brockton,"63 Main Street, Brockton, MA 02301",1,-71.0202031,42.0844836
+87,Middleboro,"23 Wareham Street, Middleborough, MA 02346",1,-70.906686,41.8917318
+88,Plymouth,"123 Camelot Drive, Plymouth, MA 02360",1,-70.64534859999999,41.9271157
+90,Plymouth Algonquin Heights,"1 Algonquin Terrace, Plymouth , MA 02360",2,-70.6874424,41.953782
+197,North Plymouth,"10 Cordage Park, North Plymouth, MA 02360",1,-70.6881451,41.9795272
+45,Randolph,"19 North Main St, Randolph, MA 02368",1,-71.04158199999999,42.1633462
+89,Rockland,"Mckinley School, 394 Union St, Rockland, MA 02370",1,-70.9173082,42.1328538
+84,Totten Pond,"Home Suites Inn Hotel, 454 Totten Pond Road, Waltham , MA 02451",2,-71.257085,42.3975559
+85,Waltham,"32 South St, Waltham, MA 02453",1,-71.2497881,42.3748128
+61,Arlington,"7 Central St. , Arlington, MA 02476",1,-71.15622379999999,42.4166246
+177,Falmouth,"350 Gifford St Unit W-20, Falmouth, MA 02540",1,-70.61150169999999,41.5628475
+181,Nantucket,"20 Vesper Lane, Nantucket, MA 02554",1,-70.1013215,41.2742542
+179,Martha's Vineyard,"517 State Road, Vineyard Haven, MA 02568",1,-70.61891419999999,41.4449951
+91,Wareham,"106 Main St 2nd Floor, Wareham, MA 02571",1,-70.7131066,41.75581409999999
+178,Hyannis,"1019 Iyannough Rd Rte 132, Hyannis, MA 02601",1,-70.3033798,41.6714649
+176,Mobile Cape Cod,"1019 Iyannough Rd Rte 132, Hyannis, MA 02601",2,-70.3033798,41.6714649
+93,Harwich,"Harwich Family Resource Ctr., 263 South St, Harwich, MA 02645",1,-70.0833366,41.6840567
+180,Mashpee,"483B Great Neck Road, Mashpee, MA 02649",3,-70.4746799,41.5952598
+94,Orleans,"79 Finlay Road Unit 2, Orleans, MA 02653",1,-69.99046310000001,41.776683
+95,Provincetown,"49 Harry Kemp Way, Provincetown, MA 02657",1,-70.1835808,42.0581265
+183,South Yarmouth,"United Methodist Church, 322 Old Main St, South Yarmouth, MA 02664",1,-70.1855437,41.6662465
+166,Attleboro,"95 Pine St, Attleboro, MA 02703",1,-71.2820181,41.9408039
+167,Roving Taunton Site,"1 Taunton Green, Lower Level, Taunton, MA 02703",3,-71.0921578,41.9022893
+199,Oxford Terrace,"275 Main Street, Fairhaven , MA 02719",2,-70.9087488,41.6519404
+121,Fall River,"387 Quarry Street, Fall River, MA 02723",1,-71.14028189999999,41.69356
+136,New Bedford,"874 Purchase st, New Bedford, MA 02740",1,-70.9257469,41.6362235
+167,Town Hall,"148 Peck Street, Rehoboth , MA 02769",3,-71.20018739999999,41.8889592
+126,Swansea,"68 Stevens Rd, Swansea, MA 02777",1,-71.16337469999999,41.7498628
+168,Taunton,"1 Taunton Green, Taunton, MA 02780",1,-71.0921578,41.9022893
+127,Westport,"Old Town Hall, 856 Main St, Westport, MA 02790",3,-71.0902333,41.5755251
